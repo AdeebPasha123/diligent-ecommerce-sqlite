@@ -1,5 +1,7 @@
 ﻿# E-commerce Analytics Mini Project
 
+A small, self-contained project that generates synthetic e-commerce datasets, loads them into a local SQLite database, and provides example SQL analytics queries. It's ideal for learning SQL analytics workflows, testing query ideas, or teaching data ingestion from CSV to SQLite.
+
 ## Project Structure
 - `data/`: synthetic CSV datasets and generated `ecommerce.db`
 - `scripts/`: automation scripts (`generate_data.py`, `ingest_sqlite.py`, `show_query_example.py`)
