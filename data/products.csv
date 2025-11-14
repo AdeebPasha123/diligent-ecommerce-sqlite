@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,stock_qty,active
+1,Home Item 1,Home,226.05,290,true
+2,Toys Item 2,Toys,179.53,219,true
+3,Home Item 3,Home,299.22,85,false
+4,Beauty Item 4,Beauty,36.36,39,true
+5,Home Item 5,Home,191.96,231,false
+6,Electronics Item 6,Electronics,121.58,254,false
+7,Outdoors Item 7,Outdoors,291.61,20,false
+8,Toys Item 8,Toys,43.22,289,true
+9,Toys Item 9,Toys,108.65,165,true
+10,Home Item 10,Home,141.58,149,false
+11,Home Item 11,Home,157.23,69,false
+12,Outdoors Item 12,Outdoors,254.08,274,false
